@@ -1,5 +1,6 @@
 # Atividades_U2_Ciencia_de_Dados
 # 📊 Unidade 2 — Ciência de Dados  
+Aluno: Carlos Arthur Moraes Gonçalves
 ## Atividades Práticas — Engenharia de Software
 
 Este repositório contém todas as atividades da **Unidade 2** da disciplina **Ciência de Dados**, conforme as orientações da professora **Heloisa Guimarães**.
